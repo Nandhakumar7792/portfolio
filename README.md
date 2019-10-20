@@ -1,2 +1,1 @@
-# portfolio
-Personal portfolio website
+#My personal portfolio site using HTML5, CSS3, JQuery & SASS
